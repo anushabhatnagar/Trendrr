@@ -1,1 +1,8 @@
 This file was created by IntelliJ IDEA 10.5.2 for binding GitHub repository
+
+Classes :
+1. Main : to Run the program and initialize DB connection
+2. WRPlayer :Class  that finds out the WR player with highest jersey number
+
+JARS used:
+1. MongoDB Java Driver
