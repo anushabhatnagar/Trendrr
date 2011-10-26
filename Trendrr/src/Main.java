@@ -13,7 +13,7 @@ public class Main {
         Mongo m = null;
         try {
             /* DB Name removed as per instructions */
-            m = new Mongo("dbh63.mongolab.com", 27637);
+            m = new Mongo("",0);
         } catch (UnknownHostException e) {
             e.printStackTrace();
         } catch (MongoException e) {
